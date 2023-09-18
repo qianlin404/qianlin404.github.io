@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-Our paper *Dělen: Enabling Flexible and Adaptive Model-serving for Multi-tenant Edge AI* has been accepeted at (IoTDI 2023)[https://conferences.computer.org/iotDI/2023/].  
+Our paper *Dělen: Enabling Flexible and Adaptive Model-serving for Multi-tenant Edge AI* has been accepeted at [IoTDI 2023](https://conferences.computer.org/iotDI/2023/).  
